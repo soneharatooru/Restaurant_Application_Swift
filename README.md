@@ -3,9 +3,9 @@ A iOS application where the customers can share the reviews of the restaurant an
 
 ## Instruction Page
 
-<img src="instruct-1.png" width="350">
-<img src="instruct-1.png" width="350">
-<img src="instruct-1.png" width="350">
+<img src="Instruct-1.png" width="350">
+<img src="Instruct-2.png" width="350">
+<img src="Instruct-3.png" width="350">
 
 ## Search for Restaurant
 
